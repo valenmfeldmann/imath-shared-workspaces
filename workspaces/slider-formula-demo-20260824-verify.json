@@ -1,0 +1,28 @@
+{
+    "blocks": [
+        {
+            "id": "0487c72c9b254d46bd72a89269d0abb1",
+            "type": "SliderBlock",
+            "x": 0,
+            "y": 0,
+            "is_minimized": false,
+            "children": {},
+            "var_name": "a",
+            "min_val": "-10.0",
+            "max_val": "10.0",
+            "step_val": "1.0",
+            "t": 0.5
+        },
+        {
+            "id": "2ea05f8891c247609913bc899b05d3f0",
+            "type": "FormulaBlock",
+            "x": 300,
+            "y": 0,
+            "is_minimized": false,
+            "children": {},
+            "expression": "x * 2"
+        }
+    ],
+    "connections": [],
+    "dashboards": []
+}
